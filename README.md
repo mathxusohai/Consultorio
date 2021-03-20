@@ -10,6 +10,7 @@
 2. As páginas devem conter um Topo(NavBar) e um Rodapé fixos.
 3. Na página Contato devem conter um Mapa com as coordenadas do local escolhido.
 4. Todas as páginas devem conter um Design padrão a ser seguido. 
+###### Todos os componentes acima foram concluuídos.
 
 #### Link do site em Funcionamento: https://consultorio-mathxusss.netlify.app/
 
